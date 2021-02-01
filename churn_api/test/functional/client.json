@@ -1,0 +1,14 @@
+{
+    "ID_CLIENT": 3456,
+    "NOM": "Garcia",
+    "DATE_ENTREE": "2018-06-01",
+    "PAYS": "Espagne",
+    "SEXE": "H",
+    "MEMBRE_ACTIF": "Yes",
+    "NB_PRODUITS": 3,
+    "CARTE_CREDIT": "No",
+    "AGE": 50,
+    "BALANCE": 500.89,
+    "SCORE_CREDIT": 650,
+    "SALAIRE": 60789.2
+}

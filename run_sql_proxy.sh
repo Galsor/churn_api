@@ -1,0 +1,1 @@
+./cloud_sql_proxy -instances=yotta-square-ml3:europe-west1:group-2=tcp:5432 -credential_file=churn_api/secrets/key.json
